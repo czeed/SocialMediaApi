@@ -20,7 +20,7 @@ namespace CwkSocial.Domain.Aggregates.UserProfileAggregate
             
         }
 
-        public static BasicInfo CreateBsicInfo(string firstName, string lastName, string email, string phoneNumber, DateTime dateBorth, string currentCity)
+        public static BasicInfo CreateBasicInfo(string firstName, string lastName, string email, string phoneNumber, DateTime dateBorth, string currentCity)
         {
             // to do : implementation, errorhandling strategies
 

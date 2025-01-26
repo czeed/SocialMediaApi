@@ -2,6 +2,35 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "[12.0.1]",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Azure.Core/1.25.0": {
         "type": "package",
         "dependencies": {
@@ -57,6 +86,49 @@
           "lib/net6.0/Humanizer.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "MediatR/12.4.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "[2.0.1, 3.0.0)",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/11.1.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "[11.0.0, 12.0.0)",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/8.0.1": {
@@ -1679,6 +1751,22 @@
           }
         }
       },
+      "CwkSocial.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "CwkSocial.DataAcces": "1.0.0",
+          "CwkSocial.Domain": "1.0.0",
+          "MediatR": "12.4.1"
+        },
+        "compile": {
+          "bin/placeholder/CwkSocial.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CwkSocial.Application.dll": {}
+        }
+      },
       "CwkSocial.DataAcces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1708,6 +1796,35 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+      "sha512": "+g/K+Vpe3gGMKGzjslMOdqNlkikScDjWfVvmWTayrDHaG/n2pPmFBMa+jKX1r/h6BDGFdkyRjAuhFE3ykW+r1g==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
     "Azure.Core/1.25.0": {
       "sha512": "X8Dd4sAggS84KScWIjEbFAdt2U1KDolQopTPoHVubG2y3CM54f9l6asVrP5Uy384NWXjsspPYaJgz5xHc+KvTA==",
       "type": "package",
@@ -1762,6 +1879,50 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MediatR/12.4.1": {
+      "sha512": "0tLxCgEC5+r1OCuumR3sWyiVa+BMv3AgiU4+pz8xqTc+2q1WbUEXFOr7Orm96oZ9r9FsldgUtWvB2o7b9jDOaw==",
+      "type": "package",
+      "path": "mediatr/12.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "gradient_128x128.png",
+        "lib/net6.0/MediatR.dll",
+        "lib/net6.0/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.12.4.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/2.0.1": {
+      "sha512": "FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "type": "package",
+      "path": "mediatr.contracts/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.2.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/11.1.0": {
+      "sha512": "RW3etRuy6Xp63cgqfC0r/ITOtUT0f9ymJl1+1XZdzsYUsfv7WBPC2kXGOP8IYpY/6c4Q6805vbIW/88DopUs3w==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/11.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.1": {
@@ -4700,6 +4861,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CwkSocial.Application/1.0.0": {
+      "type": "project",
+      "path": "../CwkSocial.Application/CwkSocial.Application.csproj",
+      "msbuildProject": "../CwkSocial.Application/CwkSocial.Application.csproj"
+    },
     "CwkSocial.DataAcces/1.0.0": {
       "type": "project",
       "path": "../CwkSocial.DataAcces/CwkSocial.DataAcces.csproj",
@@ -4713,8 +4879,11 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "CwkSocial.Application >= 1.0.0",
       "CwkSocial.DataAcces >= 1.0.0",
       "CwkSocial.Domain >= 1.0.0",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.AspNetCore.Mvc.Versioning >= 5.1.0",
       "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer >= 5.1.0",
       "Microsoft.EntityFrameworkCore >= 8.0.1",
@@ -4758,6 +4927,9 @@
             "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\CwkSocial.Domain.csproj": {
               "projectPath": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\CwkSocial.Domain.csproj"
             },
+            "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.Application\\CwkSocial.Application.csproj": {
+              "projectPath": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.Application\\CwkSocial.Application.csproj"
+            },
             "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj": {
               "projectPath": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj"
             }
@@ -4779,6 +4951,14 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[12.0.1, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[11.1.0, )"
+          },
           "Microsoft.AspNetCore.Mvc.Versioning": {
             "target": "Package",
             "version": "[5.1.0, )"
@@ -4828,5 +5008,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for AutoMapper. Install/reference AutoMapper 13.0.1 directly to project CwkSocial.Api to resolve this issue. \r\n CwkSocial.Api -> CwkSocial.Application -> AutoMapper (>= 13.0.1) \r\n CwkSocial.Api -> AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 -> AutoMapper (= 12.0.1).",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

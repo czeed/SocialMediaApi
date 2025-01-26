@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\controllers\\v1\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\controllers\\v1\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\mappingprofiles\\userprofilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\mappingprofiles\\userprofilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\userprofileaggregate\\basicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|solutionrelative:cwk.domain\\aggregates\\userprofileaggregate\\basicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BADF67-CC3D-4FFD-802C-E49CFAEE4B72}|CwkSocial.Application\\CwkSocial.Application.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.application\\mappingprofiles\\userprofilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BADF67-CC3D-4FFD-802C-E49CFAEE4B72}|CwkSocial.Application\\CwkSocial.Application.csproj|solutionrelative:cwksocial.application\\mappingprofiles\\userprofilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\contracts\\userprofile\\requests\\userprofilecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\contracts\\userprofile\\requests\\userprofilecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\contracts\\userprofile\\responses\\basicinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\contracts\\userprofile\\responses\\basicinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\contracts\\userprofile\\responses\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\contracts\\userprofile\\responses\\userprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\userprofileaggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|solutionrelative:cwk.domain\\aggregates\\userprofileaggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\controllers\\v1\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\controllers\\v1\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.dataacces\\configurations\\basicinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|solutionrelative:cwksocial.dataacces\\configurations\\basicinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.dataacces\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.dataacces\\configurations\\userprofileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|solutionrelative:cwksocial.dataacces\\configurations\\userprofileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.dataacces\\configurations\\basicinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|solutionrelative:cwksocial.dataacces\\configurations\\basicinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\cwksocial.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -49,14 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\postaggregate\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|solutionrelative:cwk.domain\\aggregates\\postaggregate\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\userprofileaggregate\\basicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|solutionrelative:cwk.domain\\aggregates\\userprofileaggregate\\basicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\userprofileaggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|solutionrelative:cwk.domain\\aggregates\\userprofileaggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BEAE888-22D4-4095-94B4-E369604EDF2C}|Cwk.Domain\\CwkSocial.Domain.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwk.domain\\aggregates\\postaggregate\\postinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\cwksocial.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\extensions\\registrarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\extensions\\registrarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\registrars\\swaggerregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\registrars\\swaggerregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,6 +121,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial\\controllers\\v2\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC661996-CC44-43BA-9AE5-A1D25F25C356}|CwkSocial\\CwkSocial.Api.csproj|solutionrelative:cwksocial\\controllers\\v2\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|c:\\users\\czeed\\onedrive\\documents\\dev\\c# learning\\social network\\cwksocial.dataacces\\migrations\\20250126171733_initilmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691820CC-EE9E-4090-B24D-B5E3395EABCB}|CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj|solutionrelative:cwksocial.dataacces\\migrations\\20250126171733_initilmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,24 +134,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250126171733_Initilmig.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
-              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
-              "RelativeToolTip": "CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserProfileMappings.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\MappingProfiles\\UserProfileMappings.cs",
+              "RelativeDocumentMoniker": "CwkSocial\\MappingProfiles\\UserProfileMappings.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\MappingProfiles\\UserProfileMappings.cs",
+              "RelativeToolTip": "CwkSocial\\MappingProfiles\\UserProfileMappings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T17:17:33.367Z",
+              "WhenOpened": "2025-01-26T19:31:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicInfo.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
+              "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
+              "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:20:43.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfileMap.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.Application\\MappingProfiles\\UserProfileMap.cs",
+              "RelativeDocumentMoniker": "CwkSocial.Application\\MappingProfiles\\UserProfileMap.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.Application\\MappingProfiles\\UserProfileMap.cs",
+              "RelativeToolTip": "CwkSocial.Application\\MappingProfiles\\UserProfileMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:14:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileCreate.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Requests\\UserProfileCreate.cs",
+              "RelativeDocumentMoniker": "CwkSocial\\Contracts\\UserProfile\\Requests\\UserProfileCreate.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Requests\\UserProfileCreate.cs",
+              "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Requests\\UserProfileCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:41:34.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicInformation.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Responses\\BasicInformation.cs",
+              "RelativeDocumentMoniker": "CwkSocial\\Contracts\\UserProfile\\Responses\\BasicInformation.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Responses\\BasicInformation.cs",
+              "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Responses\\BasicInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:36:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V1\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "CwkSocial\\Controllers\\V1\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V1\\UserProfileController.cs",
+              "RelativeToolTip": "CwkSocial\\Controllers\\V1\\UserProfileController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:00:46.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UserProfileResponse.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Responses\\UserProfileResponse.cs",
+              "RelativeDocumentMoniker": "CwkSocial\\Contracts\\UserProfile\\Responses\\UserProfileResponse.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Contracts\\UserProfile\\Responses\\UserProfileResponse.cs",
+              "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Responses\\UserProfileResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:39:33.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BasicInfoConfig.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\BasicInfoConfig.cs",
               "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\BasicInfoConfig.cs",
@@ -139,23 +237,38 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\BasicInfoConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:04:48.351Z"
+              "WhenOpened": "2025-01-26T16:04:48.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PostInteractionConfig.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
-              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
-              "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "DocumentIndex": 16,
+              "Title": "PostCommentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
+              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
+              "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:00:33.142Z"
+              "WhenOpened": "2025-01-26T15:57:10.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
+              "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:43:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\DataContext.cs",
               "RelativeDocumentMoniker": "CwkSocial.DataAcces\\DataContext.cs",
@@ -168,19 +281,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PostCommentConfig.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
-              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
-              "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "DocumentIndex": 15,
+              "Title": "PostInteractionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
+              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
+              "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:57:10.823Z"
+              "WhenOpened": "2025-01-26T16:00:33.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\appsettings.json",
               "RelativeDocumentMoniker": "CwkSocial\\appsettings.json",
@@ -193,20 +307,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V1\\PostController.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Controllers\\V1\\PostController.cs",
               "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V1\\PostController.cs",
               "RelativeToolTip": "CwkSocial\\Controllers\\V1\\PostController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T11:04:05.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 30,
+              "Title": "20250126171733_Initilmig.cs",
+              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
+              "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
+              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
+              "RelativeToolTip": "CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:17:33.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserProfileConfig.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\Configurations\\UserProfileConfig.cs",
               "RelativeDocumentMoniker": "CwkSocial.DataAcces\\Configurations\\UserProfileConfig.cs",
@@ -214,11 +341,12 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\UserProfileConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:08:20.575Z"
+              "WhenOpened": "2025-01-26T16:08:20.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Program.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Program.cs",
@@ -231,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "CwkSocial.DataAcces.csproj",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj",
               "RelativeDocumentMoniker": "CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj",
@@ -239,11 +367,12 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T14:13:05.334Z"
+              "WhenOpened": "2025-01-26T14:13:05.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "CwkSocial.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\CwkSocial.Domain.csproj",
               "RelativeDocumentMoniker": "Cwk.Domain\\CwkSocial.Domain.csproj",
@@ -251,11 +380,12 @@
               "RelativeToolTip": "Cwk.Domain\\CwkSocial.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T14:10:37.994Z"
+              "WhenOpened": "2025-01-26T14:10:37.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "InteractionType.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\PostAggregate\\InteractionType.cs",
               "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\PostAggregate\\InteractionType.cs",
@@ -263,11 +393,12 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\InteractionType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:58:47.9Z"
+              "WhenOpened": "2025-01-24T17:58:47.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "PostInteraction.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\PostAggregate\\PostInteraction.cs",
               "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\PostAggregate\\PostInteraction.cs",
@@ -275,23 +406,25 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\PostInteraction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:56:57.958Z"
+              "WhenOpened": "2025-01-24T17:56:57.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "PostComment.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\PostAggregate\\PostComment.cs",
               "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\PostAggregate\\PostComment.cs",
               "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\PostAggregate\\PostComment.cs",
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\PostComment.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCsAAAArAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:53:55.658Z"
+              "WhenOpened": "2025-01-24T17:53:55.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\PostAggregate\\Post.cs",
               "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\PostAggregate\\Post.cs",
@@ -299,35 +432,12 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:51:23.567Z"
+              "WhenOpened": "2025-01-24T17:51:23.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasicInfo.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
-              "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
-              "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:45:29.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
-              "RelativeDocumentMoniker": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
-              "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:43:16.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "MvcWebAppRegistrar.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Registrars\\MvcWebAppRegistrar.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Registrars\\MvcWebAppRegistrar.cs",
@@ -335,11 +445,12 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\MvcWebAppRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:40:24.089Z"
+              "WhenOpened": "2025-01-23T18:40:24.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "MvcRegistrar.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Registrars\\MvcRegistrar.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Registrars\\MvcRegistrar.cs",
@@ -347,11 +458,12 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\MvcRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:35:37.667Z"
+              "WhenOpened": "2025-01-23T18:35:37.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "SwaggerRegistrar.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Registrars\\SwaggerRegistrar.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Registrars\\SwaggerRegistrar.cs",
@@ -359,11 +471,12 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\SwaggerRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:32:50.825Z"
+              "WhenOpened": "2025-01-23T18:32:50.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "IWebApplicationBuilderRegistrar.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Registrars\\IWebApplicationBuilderRegistrar.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Registrars\\IWebApplicationBuilderRegistrar.cs",
@@ -371,23 +484,25 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\IWebApplicationBuilderRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:22:41.5Z"
+              "WhenOpened": "2025-01-23T18:22:41.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CwkSocial.Api.csproj",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\CwkSocial.Api.csproj",
               "RelativeDocumentMoniker": "CwkSocial\\CwkSocial.Api.csproj",
               "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\CwkSocial.Api.csproj",
               "RelativeToolTip": "CwkSocial\\CwkSocial.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T12:57:08.999Z"
+              "WhenOpened": "2025-01-23T12:57:08.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ConfigureSwaggerOptions.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Options\\ConfigureSwaggerOptions.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Options\\ConfigureSwaggerOptions.cs",
@@ -395,11 +510,12 @@
               "RelativeToolTip": "CwkSocial\\Options\\ConfigureSwaggerOptions.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:58:06.161Z"
+              "WhenOpened": "2025-01-23T12:58:06.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\Cwk.Domain\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Cwk.Domain\\Models\\Post.cs",
@@ -407,23 +523,12 @@
               "RelativeToolTip": "Cwk.Domain\\Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:57:16.551Z"
+              "WhenOpened": "2025-01-23T09:57:16.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RegistrarExtension.cs",
-              "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Extensions\\RegistrarExtension.cs",
-              "RelativeDocumentMoniker": "CwkSocial\\Extensions\\RegistrarExtension.cs",
-              "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Extensions\\RegistrarExtension.cs",
-              "RelativeToolTip": "CwkSocial\\Extensions\\RegistrarExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:42:54.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V2\\PostController.cs",
               "RelativeDocumentMoniker": "CwkSocial\\Controllers\\V2\\PostController.cs",
@@ -431,7 +536,8 @@
               "RelativeToolTip": "CwkSocial\\Controllers\\V2\\PostController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:59:11.455Z"
+              "WhenOpened": "2025-01-23T11:59:11.455Z",
+              "EditorCaption": ""
             }
           ]
         }
