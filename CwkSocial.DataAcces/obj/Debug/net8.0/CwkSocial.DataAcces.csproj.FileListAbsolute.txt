@@ -1,0 +1,11 @@
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\bin\Debug\net8.0\CwkSocial.DataAcces.deps.json
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\bin\Debug\net8.0\CwkSocial.DataAcces.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\bin\Debug\net8.0\CwkSocial.DataAcces.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.AssemblyInfoInputs.cache
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.AssemblyInfo.cs
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\refint\CwkSocial.DataAcces.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\CwkSocial.DataAcces.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.DataAcces\obj\Debug\net8.0\ref\CwkSocial.DataAcces.dll

@@ -1,0 +1,11 @@
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\bin\Debug\net8.0\CwkSocial.Domain.deps.json
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\bin\Debug\net8.0\CwkSocial.Domain.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\bin\Debug\net8.0\CwkSocial.Domain.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.AssemblyInfoInputs.cache
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.AssemblyInfo.cs
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\refint\CwkSocial.Domain.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\CwkSocial.Domain.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\Cwk.Domain\obj\Debug\net8.0\ref\CwkSocial.Domain.dll
