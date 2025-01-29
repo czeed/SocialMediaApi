@@ -43,7 +43,7 @@ namespace CwkSocial.Api.Controllers.V1
         [Route(ApiRoutes.UserProfiles.IdRoute)]
         public async Task<IActionResult> GetUserProfileById(string id)
         {
-            return Ok(new { id });
+            return Ok();
         }
 
     }

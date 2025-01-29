@@ -146,8 +146,7 @@
               "RelativeToolTip": "CwkSocial\\MappingProfiles\\UserProfileMappings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:31:26.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T19:31:26.778Z"
             },
             {
               "$type": "Document",
@@ -159,8 +158,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\BasicInfo.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA5wBYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:20:43.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T19:20:43.663Z"
             },
             {
               "$type": "Document",
@@ -172,8 +170,7 @@
               "RelativeToolTip": "CwkSocial.Application\\MappingProfiles\\UserProfileMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T19:14:28.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T19:14:28.18Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Requests\\UserProfileCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T18:41:34.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T18:41:34.494Z"
             },
             {
               "$type": "Document",
@@ -198,8 +194,7 @@
               "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Responses\\BasicInformation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T18:36:34.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T18:36:34.139Z"
             },
             {
               "$type": "Document",
@@ -209,7 +204,7 @@
               "RelativeDocumentMoniker": "CwkSocial\\Controllers\\V1\\UserProfileController.cs",
               "ToolTip": "C:\\Users\\czeed\\OneDrive\\Documents\\DEV\\c# learning\\social network\\CwkSocial\\Controllers\\V1\\UserProfileController.cs",
               "RelativeToolTip": "CwkSocial\\Controllers\\V1\\UserProfileController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAABwAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wC0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T18:00:46.074Z",
               "EditorCaption": ""
@@ -224,8 +219,7 @@
               "RelativeToolTip": "CwkSocial\\Contracts\\UserProfile\\Responses\\UserProfileResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T18:39:33.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T18:39:33.908Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\BasicInfoConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:04:48.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T16:04:48.351Z"
             },
             {
               "$type": "Document",
@@ -250,8 +243,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostCommentConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:57:10.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T15:57:10.823Z"
             },
             {
               "$type": "Document",
@@ -263,8 +255,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\UserProfileAggregate\\UserProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:43:16.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:43:16.256Z"
             },
             {
               "$type": "Document",
@@ -276,8 +267,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\DataContext.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:59:01.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T15:59:01.217Z"
             },
             {
               "$type": "Document",
@@ -289,8 +279,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\PostInteractionConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:00:33.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T16:00:33.142Z"
             },
             {
               "$type": "Document",
@@ -302,8 +291,7 @@
               "RelativeToolTip": "CwkSocial\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-26T13:47:43.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T13:47:43.369Z"
             },
             {
               "$type": "Document",
@@ -315,8 +303,7 @@
               "RelativeToolTip": "CwkSocial\\Controllers\\V1\\PostController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:04:05.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T11:04:05.173Z"
             },
             {
               "$type": "Document",
@@ -328,8 +315,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Migrations\\20250126171733_Initilmig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T17:17:33.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T17:17:33.367Z"
             },
             {
               "$type": "Document",
@@ -341,8 +327,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\Configurations\\UserProfileConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:08:20.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T16:08:20.575Z"
             },
             {
               "$type": "Document",
@@ -354,8 +339,7 @@
               "RelativeToolTip": "CwkSocial\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAqwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:36:36.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T09:36:36.57Z"
             },
             {
               "$type": "Document",
@@ -367,8 +351,7 @@
               "RelativeToolTip": "CwkSocial.DataAcces\\CwkSocial.DataAcces.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T14:13:05.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T14:13:05.334Z"
             },
             {
               "$type": "Document",
@@ -380,8 +363,7 @@
               "RelativeToolTip": "Cwk.Domain\\CwkSocial.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T14:10:37.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T14:10:37.994Z"
             },
             {
               "$type": "Document",
@@ -393,8 +375,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\InteractionType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:58:47.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:58:47.9Z"
             },
             {
               "$type": "Document",
@@ -406,8 +387,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\PostInteraction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:56:57.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:56:57.958Z"
             },
             {
               "$type": "Document",
@@ -419,8 +399,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\PostComment.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:53:55.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:53:55.658Z"
             },
             {
               "$type": "Document",
@@ -432,8 +411,7 @@
               "RelativeToolTip": "Cwk.Domain\\Aggregates\\PostAggregate\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T17:51:23.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T17:51:23.567Z"
             },
             {
               "$type": "Document",
@@ -445,8 +423,7 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\MvcWebAppRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:40:24.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:40:24.089Z"
             },
             {
               "$type": "Document",
@@ -458,8 +435,7 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\MvcRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:35:37.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:35:37.667Z"
             },
             {
               "$type": "Document",
@@ -471,8 +447,7 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\SwaggerRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:32:50.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:32:50.825Z"
             },
             {
               "$type": "Document",
@@ -484,8 +459,7 @@
               "RelativeToolTip": "CwkSocial\\Registrars\\IWebApplicationBuilderRegistrar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:22:41.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:22:41.5Z"
             },
             {
               "$type": "Document",
@@ -497,8 +471,7 @@
               "RelativeToolTip": "CwkSocial\\CwkSocial.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T12:57:08.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T12:57:08.999Z"
             },
             {
               "$type": "Document",
@@ -510,8 +483,7 @@
               "RelativeToolTip": "CwkSocial\\Options\\ConfigureSwaggerOptions.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:58:06.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T12:58:06.161Z"
             },
             {
               "$type": "Document",
@@ -523,8 +495,7 @@
               "RelativeToolTip": "Cwk.Domain\\Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:57:16.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T09:57:16.551Z"
             },
             {
               "$type": "Document",
@@ -536,8 +507,7 @@
               "RelativeToolTip": "CwkSocial\\Controllers\\V2\\PostController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:59:11.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T11:59:11.455Z"
             }
           ]
         }

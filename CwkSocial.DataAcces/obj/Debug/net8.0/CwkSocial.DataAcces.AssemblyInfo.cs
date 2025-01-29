@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CwkSocial.DataAcces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7396abaffe9eee4565744a6ea4fecfff238765")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b5263d6459092bf4b3bf89848441e10ed6aaa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CwkSocial.DataAcces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CwkSocial.DataAcces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
