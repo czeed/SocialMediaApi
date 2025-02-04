@@ -10,6 +10,7 @@ namespace CwkSocial.Api.MappingProfiles
     {
         public UserProfileMappings() {
             CreateMap<UserProfileCreate, CreateUserCommand>();
+            CreateMap<UserProfileUpdate, UpdateUserProfileCommand>();
             CreateMap<UserProfile, UserProfileResponse>();
             CreateMap<BasicInfo, BasicInformation>();
         }

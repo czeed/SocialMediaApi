@@ -1,33 +1,43 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.1">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<!-- AutoMapper : Assurez-vous que les deux packages sont compatibles -->
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		<PackageReference Include="MediatR" Version="11.1.0" />
 
-  <ItemGroup>
-    <ProjectReference Include="..\Cwk.Domain\CwkSocial.Domain.csproj" />
-    <ProjectReference Include="..\CwkSocial.Application\CwkSocial.Application.csproj" />
-    <ProjectReference Include="..\CwkSocial.DataAcces\CwkSocial.DataAcces.csproj" />
-  </ItemGroup>
+		<!-- MediatR : Harmonisation des versions -->
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
 
-  <ItemGroup>
-    <Folder Include="Contracts\Posts\" />
-  </ItemGroup>
+		<!-- API Versioning -->
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+
+		<!-- Entity Framework Core -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.1">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+
+		<!-- Swagger (OpenAPI) -->
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Cwk.Domain\CwkSocial.Domain.csproj" />
+		<ProjectReference Include="..\CwkSocial.Application\CwkSocial.Application.csproj" />
+		<ProjectReference Include="..\CwkSocial.DataAcces\CwkSocial.DataAcces.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Contracts\Posts\" />
+	</ItemGroup>
 
 </Project>

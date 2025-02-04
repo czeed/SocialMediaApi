@@ -1,11 +1,17 @@
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.deps.json
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.dll
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Application.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.DataAcces.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Domain.dll
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.Domain.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\bin\Debug\net8.0\CwkSocial.DataAcces.pdb
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.csproj.AssemblyReference.cache
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.AssemblyInfoInputs.cache
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.AssemblyInfo.cs
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.csproj.CoreCompileInputs.cache
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.sourcelink.json
+C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocia.B48E1D0A.Up2Date
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.dll
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\refint\CwkSocial.Application.dll
 C:\Users\czeed\OneDrive\Documents\DEV\c# learning\social network\CwkSocial.Application\obj\Debug\net8.0\CwkSocial.Application.pdb

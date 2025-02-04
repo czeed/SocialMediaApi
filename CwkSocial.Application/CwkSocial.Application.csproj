@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
-    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,8 +16,6 @@
     <Folder Include="Posts\Commands\" />
     <Folder Include="Posts\Querries\" />
     <Folder Include="Posts\QuerryHandlers\" />
-    <Folder Include="UserProfiles\QuerryHandlers\" />
-    <Folder Include="UserProfiles\Querries\" />
   </ItemGroup>
 
   <ItemGroup>
