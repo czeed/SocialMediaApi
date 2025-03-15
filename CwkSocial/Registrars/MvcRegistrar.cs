@@ -1,6 +1,7 @@
 ﻿
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.AspNetCore.Mvc;
+using CwkSocial.Api.Filters;
 
 namespace CwkSocial.Api.Registrars
 {
@@ -8,7 +9,9 @@ namespace CwkSocial.Api.Registrars
     {
         public void RegisterServices(WebApplicationBuilder builder)
         {
-            builder.Services.AddControllers();
+            builder.Services.AddControllers(config =>
+                config.Filters.Add(typeof(CwkSocialExceptionHandler))
+            );
 
             builder.Services.AddApiVersioning(config =>
             {
